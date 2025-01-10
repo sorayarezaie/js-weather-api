@@ -8,10 +8,14 @@ body {
     height: 100vh;
     margin: 0;
 }
-span{
+span.cloud{
     color: gainsboro;
     font-size: 40pt;
     
+}
+span.sunny{
+    color: yellow;
+    font-size: 40pt;    
 }
 .weather-container {
     background-color: white;
